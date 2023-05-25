@@ -1,4 +1,4 @@
-# socprog
+## Voting Application
 
 A new Flutter project.
 
